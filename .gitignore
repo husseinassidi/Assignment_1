@@ -53,3 +53,5 @@ TestResults/
 
 ## Publish
 publish/
+
+.env
